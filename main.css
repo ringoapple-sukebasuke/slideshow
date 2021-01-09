@@ -1,0 +1,23 @@
+li {
+    list-style: none;
+}
+.slick01{
+    margin: 100px auto;
+    width: 80%;
+}
+.slick01 img{
+    height: auto;
+    width: 100%;
+}
+
+body {
+    background: black;
+}
+
+h3 {
+    color: white;
+}
+p {
+    color: white;
+    text-align: center
+}
